@@ -14,3 +14,7 @@ Visual Studio 2019 ve MS SQL Server 2014 sürüm kullanılarak proje tamamlanmı
 •VT_TABLE.sql dosyası çalıştırılarak veritabanı ve tablolar oluşturulur.
 •VT_PROC.sql dosyası çalıştırılarak procedureler oluşturulur.
 •Menu formda bulunan ConnectionString değişkenindeki SQL Server ismi değiştirilmelidir.
+
+--- Proje Ekibi ---
+Batuhan ŞEN - 131101033
+Öykü Nehir ŞÜYÜN - 161101067
